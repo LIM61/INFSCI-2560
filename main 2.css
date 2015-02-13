@@ -1,0 +1,69 @@
+div{
+   border-color: #A3BDDD;
+   border-width: 1px;
+   border-style: solid;
+   width: 10in;
+   height: 5in;
+   background-color: #DCE6F2;
+   }
+
+a:link {
+    color: #FF0000;
+}
+
+a:visited {
+    color: #00FF00;
+}
+
+a:hover {
+    color: #FF00FF;
+}
+
+header {
+    position: fixed;
+	top: 0px;
+	right: 10in;
+	height:80px;
+	background:#F0F0F0;
+	border: 1px solid #CCC;
+	width:260px;
+	margin:0px auto;
+}
+table, td, th {
+    border: 1px solid green;
+	width:10in;
+}
+	
+th {
+    background-color: green;
+	color: white;
+}
+
+	caption {
+    caption-side: bottom;
+}
+ h1 {
+ text-decoration: underline;
+ color: #ff0000; 
+ font-size: 20px; 
+ font-weight: bold; 
+ text-align: center;
+ }
+ 
+ h2 {
+ color: #000000; 
+ font-size: 15px;
+ }
+
+ h3 {
+     position: relative;
+	 right: 0px;
+	 top: 0px;
+	 z-index: -1;
+}
+
+
+h4 {
+   position: fixed;
+   right: 0px;
+   top:0px;
